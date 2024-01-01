@@ -1,0 +1,103 @@
+<header class="post-header post">
+  <!-- ... (unchanged) ... -->
+
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="affiliation">
+          <h2 class="affiliation">Affiliation</h2>
+          <p><strong>Group Membership:</strong> Omega Men</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-12 text-right">
+        <p class="gostats"> <a class="button" href="#stats"><i class="fa fa-caret-right"></i> Jump to the game stats</a> </p>
+      </div>
+      <div class="col-sm-12">
+        <div class="post post-gap">
+          <hr />
+          <h2>Context</h2>
+          <p>George is a resident of Earth-616. When Peter Parker made his debut as Spider-Man, George was already in his 40's. Becoming a superhero was the last thing on his mind, but fate had other ideas...</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- / header POST -->
+
+<!-- content POST -->
+
+<div class="contentpost row">
+  <div id="left-col" class="col-sm-8 col-lg-7">
+    <div class="postinside">
+      <hr>
+      <p align="center" style="padding-bottom:5px;margin-top:-20px;"><i><font size="small" color="#00796b">pneumonoultramicroscopicsilicovolcanoconiosis</font></i></p>
+
+      <img src="DauntlessULTRA.png" alt="Dauntless on a Building.">
+      <br>
+      <br>
+      <figcaption><strong><font size="+1">Dauntless in his new costume.</font></strong></figcaption>
+
+      <div class="opensearchserver.ignore" align="center" style="padding-bottom:10px;">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <ins class="adsbygoogle"
+             style="display:block; text-align:center;"
+             data-ad-layout="in-article"
+             data-ad-format="fluid"
+             data-ad-client="ca-pub-6012988854213905"
+             data-ad-slot="8554753779"></ins>
+        <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+      </div>
+
+      <section class="character-details">
+        <h2>Background</h2>
+        <p>George, known as Dauntless, is a superhero in the Marvel Universe. He made his debut in the 1980s and is a member of the Omega Men.</p>
+        <p>Dauntless hails from Earth-616, and his story intertwines with the emergence of other superheroes, such as Spider-Man.</p>
+      </section>
+
+      <section class="character-details">
+        <h2>Powers & Abilities</h2>
+        <ul>
+          <li><strong>Superhuman Strength:</strong> Dauntless possesses superhuman strength, allowing him to lift heavy objects and engage in formidable hand-to-hand combat.</li>
+          <!-- Add more list items as needed -->
+        </ul>
+      </section>
+
+      <section class="character-details">
+        <h2>Skills</h2>
+        <ul>
+          <li><strong>Hand-to-Hand Combat:</strong> Dauntless is skilled in hand-to-hand combat, making him a formidable opponent in close-quarters situations.</li>
+          <!-- Add more list items as needed -->
+        </ul>
+      </section>
+
+      <section class="character-details">
+        <h2>Limitations</h2>
+        <ul>
+          <li><strong>Energy Consumption:</strong> Dauntless's powers are fueled by energy, and prolonged use may lead to exhaustion.</li>
+          <!-- Add more list items as needed -->
+        </ul>
+      </section>
+
+      <section class="character-details">
+        <h2>Personality</h2>
+        <p>Dauntless is known for his unwavering determination and commitment to justice. He values teamwork and is a loyal member of the Omega Men.</p>
+      </section>
+
+      <section class="character-details">
+        <h2>Sharing save share</h2>
+        <!-- Preserve the existing share buttons -->
+      </section>
+
+      <hr class="up">
+
+      <div class="outfitcontainer">
+        <!-- Preserve the existing outfit content -->
+      </div>
+    </div>
+  </div>
+</div>
